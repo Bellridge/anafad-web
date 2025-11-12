@@ -102,7 +102,7 @@ const HomeMission = () => {
         transition={{ duration: 0.9, ease: "easeOut" }}
       >
         <Image
-          src="https://res.cloudinary.com/dmbqk1irb/image/upload/v1761914972/portrait-4568762_1920_hpmvd6.jpg"
+          src="https://res.cloudinary.com/dmbqk1irb/image/upload/v1762958367/kevin-matos-Nl_FMFpXo2g-unsplash_fsxhip.jpg"
           width={505}
           height={555}
           loading="lazy"
